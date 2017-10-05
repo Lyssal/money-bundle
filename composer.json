@@ -1,0 +1,23 @@
+{
+	"name" : "lyssal/money-bundle",
+	"description" : "Bundle to manage money entities.",
+	"license" : "proprietary",
+	"type" : "symfony-bundle",
+	"keywords" : [
+		"money",
+		"currency"
+	],
+	"authors" : [{
+			"name" : "Rémi Leclerc",
+			"homepage" : "http://www.lyssal.com/"
+		}
+	],
+	"require" : {
+		"lyssal/doctrine-orm-bundle" : "~0.1"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Lyssal\\MoneyBundle" : "src"
+		}
+	}
+}
