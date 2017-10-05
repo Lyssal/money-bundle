@@ -2,6 +2,8 @@
 
 This bundle permits to manage currencies with the Lyssal Doctrine ORM bundle.
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/eef21b8e-fd37-412d-b028-dd9423e78793/small.png)](https://insight.sensiolabs.com/projects/eef21b8e-fd37-412d-b028-dd9423e78793)
+
 
 ## Installation
 
